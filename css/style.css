@@ -228,8 +228,10 @@ a:focus {
   width: 65%;
   margin: 40px auto;
 }
-.text-center{
+.text-justify{
   color: #082465;
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 /* about section */
 
