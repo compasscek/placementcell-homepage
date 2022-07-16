@@ -38,8 +38,9 @@ body {
   text-transform: uppercase;
   background-color: #fec913;
   border: 1px solid transparent;
-  color: #fff;
+  color: rebeccapurple;
   transition: all 0.3s ease 0s;
+  
 }
 
 .hero_section .call_to-btn {
