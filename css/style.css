@@ -203,6 +203,7 @@ a:focus {
 .hero_img-container {
   width: 600%;
   margin-bottom: 20%;
+  opacity: 50%;
   
 }
 
