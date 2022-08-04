@@ -81,6 +81,7 @@ body {
   
 }
 
+
 nav.navbar.navbar-expand-lg {
 
   padding: 10px 0;
@@ -146,7 +147,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 25px;
+  width: 75px;
   margin-right: 7px;
 }
 
@@ -200,12 +201,12 @@ a:focus {
   width: 500%;
 }
 
-.hero_img-container {
+/* .hero_img-container {
   width: 600%;
   margin-bottom: 20%;
   opacity: 50%;
   
-}
+} */
 
 .hero_detail-box {
   color: #fefeff;
